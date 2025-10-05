@@ -1,4 +1,4 @@
-🏦 Portuguese Bank Marketing Campaign Prediction — Business Case
+Portuguese Bank Marketing Campaign Prediction — Business Case
 
 In the competitive banking industry, customer acquisition and retention are vital for long-term profitability.
 
@@ -6,7 +6,7 @@ This project focuses on improving the effectiveness of telemarketing campaigns b
 
 Leveraging machine learning and data analytics, it provides actionable insights that help banks target potential customers more efficiently and reduce campaign costs.
 
-🎯 Objective
+ Objective
 
 Develop a machine learning-based classification system to predict term deposit subscriptions.
 
@@ -16,7 +16,7 @@ Identify key drivers of customer decisions that impact campaign outcomes.
 
 Enable data-driven marketing strategies for better customer targeting and conversion.
 
-🧩 Aim of the Project
+ Aim of the Project
 
 Build an end-to-end predictive pipeline for campaign success using structured bank data.
 
@@ -28,7 +28,7 @@ Train, tune, and evaluate multiple classification algorithms — including Logis
 
 Select the best-performing model based on accuracy, precision, recall, and F1-score.
 
-🌟 Key Highlights
+ Key Highlights
 
 ✨ Performed comprehensive EDA to identify strong predictors of subscription (e.g., duration, previous outcome, contact type).
 
