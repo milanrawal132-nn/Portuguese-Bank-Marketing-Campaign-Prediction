@@ -40,10 +40,3 @@ Select the best-performing model based on accuracy, precision, recall, and F1-sc
 
 ✨ Generated business insights for improving campaign success and reducing churn.
 
-🧠 About
-
-Demonstrates how predictive analytics and machine learning can transform traditional marketing in the banking sector.
-
-Enables data-driven decision-making to enhance customer engagement, reduce costs, and increase conversion rates.
-
-Provides a scalable framework that can be extended to other marketing and CRM applications.
